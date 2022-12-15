@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intnvni
 - 👀 I’m interested in Programming (WEB Based)
-- 🌱 I’m currently learning PHP, HTML & CSS
+- 🌱 I’m currently learning Java, especially Spring Framework
 - 📫 You guys can contact or find me on 
     - ig : @intnvni
     - email : intanvini0@gmail.com
